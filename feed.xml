@@ -1,1 +1,47 @@
-test
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wfw="http://wellformedweb.org/CommentAPI/">
+	<channel>
+		<title>
+			<![CDATA[BHFD - Members News]]>
+		</title>
+		<link>
+			<![CDATA[http://www.balfourharropfire.com/bhfdmemberslatestnewsfeed]]>
+		</link>
+		<description>
+			<![CDATA[Members News]]>
+		</description>
+		<pubDate>Sat, 03 Mar 2018 08:10:07 -0800</pubDate>
+		<generator>Weebly</generator>
+		<item>
+			<title>
+				<![CDATA[October 24th, 2016]]>
+			</title>
+			<link>
+				<![CDATA[http://www.balfourharropfire.com/bhfdmemberslatestnewsfeed/october-24th-2016]]>
+			</link>
+			<comments>
+				<![CDATA[http://www.balfourharropfire.com/bhfdmemberslatestnewsfeed/october-24th-2016#comments]]>
+			</comments>
+			<pubDate>Tue, 25 Oct 2016 06:49:20 GMT</pubDate>
+			<category>
+				<![CDATA[Community Events]]>
+			</category>
+			<category>
+				<![CDATA[References]]>
+			</category>
+			<category>
+				<![CDATA[Social]]>
+			</category>
+			<category>
+				<![CDATA[Training]]>
+			</category>
+			<guid isPermaLink="false">http://www.balfourharropfire.com/bhfdmemberslatestnewsfeed/october-24th-2016</guid>
+			<description>
+				<![CDATA[This is a test post for the back end of the BHFD members website. [...] ]]>
+			</description>
+			<content:encoded>
+				<![CDATA[<div class="paragraph">This is a test post for the back end of the BHFD members website.</div>]]>
+			</content:encoded>
+		</item>
+	</channel>
+</rss>
